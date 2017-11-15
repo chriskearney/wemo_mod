@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lightmod",
+  "name": "Light Control Mod for Wemo Devices",
+  "description": "This communicates with a simple wemo control service",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Chris and Declan Kearney"],
+  "credits": "Sunday morning adventures",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

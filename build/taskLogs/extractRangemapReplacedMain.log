@@ -1,0 +1,10 @@
+Symbol range map extraction starting
+Processing 2 files
+startProcessing "com/ckdk/wemo/LightICommand.java" md5: d189ca285fe649563104d34c158fd360
+Cache Hit!
+endProcessing "com/ckdk/wemo/LightICommand.java"
+
+startProcessing "com/ckdk/wemo/LightMod.java" md5: 371dcfb42c6c7804df3f015d20c681c5
+Cache Hit!
+endProcessing "com/ckdk/wemo/LightMod.java"
+
